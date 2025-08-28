@@ -1,0 +1,6 @@
+{
+  "name": "Comparador de Textos Legales",
+  "description": "Una herramienta para comparar dos bloques de texto (ej. un documento original y sus modificaciones) y resaltar las diferencias artículo por artículo usando IA.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
